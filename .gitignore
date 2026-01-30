@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+
+# Data (do not commit large files)
+data/raw/*
+data/processed/*
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+
+# Notebooks / editor
+.ipynb_checkpoints/
+.vscode/
+.idea/
+
+# Tests / tooling
+.pytest_cache/
+.ruff_cache/
+
+# OS
+.DS_Store
