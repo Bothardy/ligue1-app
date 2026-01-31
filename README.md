@@ -11,8 +11,9 @@ Application data-driven (Streamlit + Pandas + Docker) permettant :
 ---
 
 ## Membres du groupe
-- À compléter
-- À compléter
+- Sid-ahmed LAMRI
+- El Mehdi ALAOUI
+- Fayçal BOUTAHAR
 
 ---
 
