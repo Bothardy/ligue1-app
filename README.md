@@ -1,4 +1,4 @@
-# Ligue 1 McDonald's — Data Zone
+## PROJET BY : SID AHMED LAMRI  ~~ EL MEHDI ALAOUI ~~ FAYCALE BOUTAHAR 
 
 Application data-driven (Streamlit + Pandas + Docker) permettant :
 - un **Match Center** (scores, calendrier, filtres) + logos,
